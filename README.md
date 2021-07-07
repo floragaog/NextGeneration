@@ -1,4 +1,4 @@
-# GeGao-Personal Website
+# Homepage Website
 
 This is my repository for a frontend application built with HTML, CSS, and JavaScript. The site is fully responsive and can be navigated to other pages.
 
